@@ -1,3 +1,6 @@
+# Caretta X Gizlilik Politikası
+
+```html
 <!DOCTYPE html>
 <html lang="tr">
 
@@ -68,3 +71,4 @@
 </body>
 
 </html>
+```html

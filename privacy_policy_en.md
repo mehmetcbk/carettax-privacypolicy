@@ -1,3 +1,6 @@
+# Privacy Policy for Caretta X
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -66,3 +69,4 @@
 </body>
 
 </html>
+```html

@@ -1,74 +1,63 @@
-# Caretta X Gizlilik Politikası
+   Caretta X için Gizlilik Politikası
 
-```html
-<!DOCTYPE html>
-<html lang="tr">
+Caretta X Gizlilik Politikası
+=============================
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Caretta X için Gizlilik Politikası</title>
-</head>
+Caretta X, Caretta X uygulamasını ücretsiz bir uygulama olarak geliştirmiştir. Bu hizmet, Caretta X tarafından ücretsiz olarak sunulmuş olup olduğu gibi kullanılmak üzere tasarlanmıştır.
 
-<body>
+Bu sayfa, hizmetimizi kullanmaya karar veren kullanıcılara kişisel bilgilerin toplanması, kullanılması ve açıklanması ile ilgili politikalarımızı bildirmek için kullanılır.
 
-<h1>Caretta X Gizlilik Politikası</h1>
+Eğer Caretta X'i kullanmayı seçerseniz, bu politika çerçevesinde bilgi toplanması ve kullanılması konusunda anlaşmış olursunuz. Caretta X'in topladığı kişisel bilgiler, hizmetin sağlanması ve geliştirilmesi amacıyla kullanılır. Bu bilgileri, bu Gizlilik Politikası'nda açıklanan dışında hiçbir şekilde kullanmayacağız veya paylaşmayacağız.
 
-<p>Caretta X, Caretta X uygulamasını ücretsiz bir uygulama olarak geliştirmiştir. Bu hizmet, Caretta X tarafından ücretsiz olarak sunulmuş olup olduğu gibi kullanılmak üzere tasarlanmıştır.</p>
+Bu Gizlilik Politikası'ndaki terimler, [Kullanım Şartları](#terms)'mızdaki anlamları içerir ve aksi belirtilmedikçe, Caretta X uygulamasında erişilebilirler.
 
-<p>Bu sayfa, hizmetimizi kullanmaya karar veren kullanıcılara kişisel bilgilerin toplanması, kullanılması ve açıklanması ile ilgili politikalarımızı bildirmek için kullanılır.</p>
+Bilgi Toplama ve Kullanım
+-------------------------
 
-<p>Eğer Caretta X'i kullanmayı seçerseniz, bu politika çerçevesinde bilgi toplanması ve kullanılması konusunda anlaşmış olursunuz. Caretta X'in topladığı kişisel bilgiler, hizmetin sağlanması ve geliştirilmesi amacıyla kullanılır. Bu bilgileri, bu Gizlilik Politikası'nda açıklanan dışında hiçbir şekilde kullanmayacağız veya paylaşmayacağız.</p>
+Caretta X, hizmet sağlayıcıları ve kullanıcıları bir araya getiren bir platformdur. Hizmetimizi kullanırken daha iyi bir deneyim için, size belirli kişisel bilgileri sağlamanızı talep edebiliriz. Bu bilgiler, hizmet sağlayıcıları ve kullanıcılar için kullanıcı profilleri oluşturmak ve yönetmek amacıyla kullanılır.
 
-<p>Bu Gizlilik Politikası'ndaki terimler, <a href="#terms">Kullanım Şartları</a>'mızdaki anlamları içerir ve aksi belirtilmedikçe, Caretta X uygulamasında erişilebilirler.</p>
+*   **Hizmet Sağlayıcıları:** Hizmet sağlayıcıları, adres, telefon numarası, e-posta, Instagram kullanıcı kimliği gibi bilgileri gönüllü olarak ekleyebilir ve görüntülenmek istedikleri kategoriyi seçebilirler. Bu bilgiler, uygulamanın tüm kullanıcıları tarafından kamuya açık bir şekilde görülebilir.
+*   **Kullanıcılar:** Kullanıcı adları, yorumlar ve e-posta adresleri, uygulamanın tüm kullanıcıları tarafından kamuya açık bir şekilde görülecektir.
 
-<h2>Bilgi Toplama ve Kullanım</h2>
+Uygulama, Firebase Analytics'i kullanarak cihaz İnternet Protokolü ("IP") adresi, cihaz adı, işletim sistemi sürümü, hizmeti kullanırken uygulamanın yapılandırması, kullanım tarihi ve saati ve diğer istatistikler gibi Log Verileri de dahil olmak üzere veri ve bilgi toplar.
 
-<p>Caretta X, hizmet sağlayıcıları ve kullanıcıları bir araya getiren bir platformdur. Hizmetimizi kullanırken daha iyi bir deneyim için, size belirli kişisel bilgileri sağlamanızı talep edebiliriz. Bu bilgiler, hizmet sağlayıcıları ve kullanıcılar için kullanıcı profilleri oluşturmak ve yönetmek amacıyla kullanılır.</p>
+**Üçüncü Taraf Hizmetleri:** Uygulama, sizi tanımlamak için bilgi toplayabilecek üçüncü taraf hizmetlerini kullanır.
 
-<ul>
-    <li><strong>Hizmet Sağlayıcıları:</strong> Hizmet sağlayıcıları, adres, telefon numarası, e-posta, Instagram kullanıcı kimliği gibi bilgileri gönüllü olarak ekleyebilir ve görüntülenmek istedikleri kategoriyi seçebilirler. Bu bilgiler, uygulamanın tüm kullanıcıları tarafından kamuya açık bir şekilde görülebilir.</li>
-    <li><strong>Kullanıcılar:</strong> Kullanıcı adları, yorumlar ve e-posta adresleri, uygulamanın tüm kullanıcıları tarafından kamuya açık bir şekilde görülecektir.</li>
-</ul>
+[Firebase Analytics için gizlilik politikası bağlantısı](https://firebase.google.com/support/privacy)
 
-<p>Uygulama, Firebase Analytics'i kullanarak cihaz İnternet Protokolü ("IP") adresi, cihaz adı, işletim sistemi sürümü, hizmeti kullanırken uygulamanın yapılandırması, kullanım tarihi ve saati ve diğer istatistikler gibi Log Verileri de dahil olmak üzere veri ve bilgi toplar.</p>
+Kullanıcı Görünürlüğü ve Hesap Silme
+------------------------------------
 
-<p><strong>Üçüncü Taraf Hizmetleri:</strong> Uygulama, sizi tanımlamak için bilgi toplayabilecek üçüncü taraf hizmetlerini kullanır.</p>
+Tüm kullanıcı tarafından sağlanan bilgiler, adlar, yorumlar ve e-posta adresleri, uygulama içinde herkes tarafından kamuya açık bir şekilde görünecektir. Kullanıcılar, bilgilerinin görünürlük ayarlarını yönetebilir ve hesaplarını artık görünmesini istemiyorlarsa uygulama ayarlarında silebilirler.
 
-<p><a href="https://firebase.google.com/support/privacy" target="_blank">Firebase Analytics için gizlilik politikası bağlantısı</a></p>
+Hizmet Sağlayıcıları
+--------------------
 
-<h2>Kullanıcı Görünürlüğü ve Hesap Silme</h2>
+Hizmetimizi kolaylaştırmak için, Caretta X, hizmetin nasıl kullanıldığını analiz etmek de dahil olmak üzere üçüncü taraf şirketler ve bireyleri istihdam edebilir. Bu üçüncü taraflar, kullanıcıların kişisel bilgilerine erişime sahip olabilir, ancak bilgileri başka bir amaçla açıklamamak veya kullanmamakla yükümlüdürler.
 
-<p>Tüm kullanıcı tarafından sağlanan bilgiler, adlar, yorumlar ve e-posta adresleri, uygulama içinde herkes tarafından kamuya açık bir şekilde görünecektir. Kullanıcılar, bilgilerinin görünürlük ayarlarını yönetebilir ve hesaplarını artık görünmesini istemiyorlarsa uygulama ayarlarında silebilirler.</p>
+Güvenlik
+--------
 
-<h2>Hizmet Sağlayıcıları</h2>
+Caretta X, kullanıcılarının güvenini değerli bulur ve kişisel bilgileri korumak için ticari kabul edilebilir araçları kullanmaya çalışır. Ancak, internet üzerinden iletişimin veya elektronik depolamanın herhangi bir yöntemi %100 güvenli değildir. Caretta X, mutlak güvenliği garanti edemez.
 
-<p>Hizmetimizi kolaylaştırmak için, Caretta X, hizmetin nasıl kullanıldığını analiz etmek de dahil olmak üzere üçüncü taraf şirketler ve bireyleri istihdam edebilir. Bu üçüncü taraflar, kullanıcıların kişisel bilgilerine erişime sahip olabilir, ancak bilgileri başka bir amaçla açıklamamak veya kullanmamakla yükümlüdürler.</p>
+Diğer Sitelere Bağlantılar
+--------------------------
 
-<h2>Güvenlik</h2>
+Caretta X, diğer sitelere bağlantılar içerebilir. Bu harici siteler bizim tarafımızdan işletilmemektedir. Bu web sitelerinin içeriği, gizlilik politikaları veya uygulamaları üzerinde hiçbir kontrolümüz olmadığını ve hiçbir sorumluluk taşımadığımızı belirtmek isteriz.
 
-<p>Caretta X, kullanıcılarının güvenini değerli bulur ve kişisel bilgileri korumak için ticari kabul edilebilir araçları kullanmaya çalışır. Ancak, internet üzerinden iletişimin veya elektronik depolamanın herhangi bir yöntemi %100 güvenli değildir. Caretta X, mutlak güvenliği garanti edemez.</p>
+Çocukların Gizliliği
+--------------------
 
-<h2>Diğer Sitelere Bağlantılar</h2>
+Caretta X, 13 yaşın altındaki çocuklardan bilinçli olarak kişisel tanımlayıcı bilgi toplamaz. Eğer bir ebeveyn veya vasinin çocuğunun kişisel bilgi sağladığını fark ederse, lütfen gerekli önlemleri almak için Caretta X ile iletişime geçmelidir.
 
-<p>Caretta X, diğer sitelere bağlantılar içerebilir. Bu harici siteler bizim tarafımızdan işletilmemektedir. Bu web sitelerinin içeriği, gizlilik politikaları veya uygulamaları üzerinde hiçbir kontrolümüz olmadığını ve hiçbir sorumluluk taşımadığımızı belirtmek isteriz.</p>
+Bu Gizlilik Politikasındaki Değişiklikler
+-----------------------------------------
 
-<h2>Çocukların Gizliliği</h2>
+Caretta X, Gizlilik Politikasını zaman zaman güncelleyebilir. Kullanıcılar, herhangi bir değişiklik için bu sayfayı periyodik olarak gözden geçirmeleri tavsiye edilir. Gizlilik Politikasındaki değişiklikler, yeni Gizlilik Politikasını bu sayfada yayımlayarak bildirilir.
 
-<p>Caretta X, 13 yaşın altındaki çocuklardan bilinçli olarak kişisel tanımlayıcı bilgi toplamaz. Eğer bir ebeveyn veya vasinin çocuğunun kişisel bilgi sağladığını fark ederse, lütfen gerekli önlemleri almak için Caretta X ile iletişime geçmelidir.</p>
+_Bu politika, 2024-01-29 tarihi itibariyle geçerlidir._
 
-<h2>Bu Gizlilik Politikasındaki Değişiklikler</h2>
+Bize Ulaşın
+-----------
 
-<p>Caretta X, Gizlilik Politikasını zaman zaman güncelleyebilir. Kullanıcılar, herhangi bir değişiklik için bu sayfayı periyodik olarak gözden geçirmeleri tavsiye edilir. Gizlilik Politikasındaki değişiklikler, yeni Gizlilik Politikasını bu sayfada yayımlayarak bildirilir.</p>
-
-<p><em>Bu politika, 2024-01-29 tarihi itibariyle geçerlidir.</em></p>
-
-<h2>Bize Ulaşın</h2>
-
-<p>Eğer bu Gizlilik Politikası hakkında herhangi bir sorunuz veya öneriniz varsa, lütfen bize <a href="mailto:carettax@carettax.com">carettax@carettax.com</a> adresinden ulaşın.</p>
-
-</body>
-
-</html>
-```html
+Eğer bu Gizlilik Politikası hakkında herhangi bir sorunuz veya öneriniz varsa, lütfen bize [carettax@carettax.com](mailto:carettax@carettax.com) adresinden ulaşın.
